@@ -2,7 +2,7 @@
 Use shiny to create customer segmentation dashboard from SQL databases
 ##### Project execution guide #####
 
-- Unzip the T07_SegmentDashboard.zip file
+- download project zip file
 - Leave all the files in the same folder
 - Open app.R 
 - Set your working directory as well as your database connection configuration
